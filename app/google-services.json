@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757371288584",
+    "project_id": "pc2ss-d79af",
+    "storage_bucket": "pc2ss-d79af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757371288584:android:8f7300abedde96258865bd",
+        "android_client_info": {
+          "package_name": "dev.mvgioser.pc2ss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757371288584-f8vfiicpvc3c2kvli0slu9kh1pukq5q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9rQW9YeYer5yz2xwP_9PwjPj6gq5tOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757371288584-f8vfiicpvc3c2kvli0slu9kh1pukq5q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
